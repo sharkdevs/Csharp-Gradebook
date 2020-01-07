@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/sharkdevs/.dotnet/store/|arch|/|tfm|",
+      "/Users/sharkdevs/.nuget/packages"
+    ]
+  }
+}

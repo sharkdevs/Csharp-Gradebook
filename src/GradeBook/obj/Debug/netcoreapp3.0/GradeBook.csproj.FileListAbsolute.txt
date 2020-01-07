@@ -1,0 +1,11 @@
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.deps.json
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.json
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.dev.json
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.dll
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.pdb
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csprojAssemblyReference.cache
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfoInputs.cache
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfo.cs
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.dll
+/Users/sharkdevs/Documents/Projects/Learning/pluralsight/c#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.pdb
